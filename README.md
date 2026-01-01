@@ -1,12 +1,12 @@
 Bibha Bandhan
 
-Bibha Bandhan is a matrimonial mobile application designed to connect individuals for marriage, combining modern technology with traditional practices. It offers AI-powered matchmaking, kundali compatibility checks, and secure user management.
+Bibha Bandhan is a matrimonial mobile application designed to connect individuals for marriage, combining modern technology with traditional practices. It offers kundali compatibility checks, and secure user management.
 
 Features
 
 User Profiles: Create and manage detailed personal profiles.
 
-Matchmaking: AI-powered suggestions based on preferences and compatibility.
+Matchmaking:Suggestions based on preferences and compatibility.
 
 Kundali Matching: Integrates traditional astrology for accurate partner matching.
 
@@ -23,7 +23,5 @@ Frontend: Flutter (Mobile Application)
 Backend: Django REST Framework + Python
 
 Database: Firebase / PostgreSQL
-
-AI/ML Model: Python-based matchmaking algorithm
 
 Authentication & Security: JWT, secure password hashing
